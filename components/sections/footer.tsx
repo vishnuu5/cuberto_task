@@ -43,7 +43,7 @@ export default function Footer() {
                   custom={0}
                   variants={revealVariants}
                 >
-                  Let's create
+                  Let&apos;s create
                 </motion.span>
               </motion.div>
               <br />
@@ -110,7 +110,7 @@ export default function Footer() {
                 viewport={{ once: true }}
               >
                 <p className="text-lg text-gray-400 mb-6">
-                  Have a project in mind? Let's talk about how we can help you achieve your goals.
+                  Have a project in mind? Let&apos;s talk about how we can help you achieve your goals.
                 </p>
                 <Button 
                   onClick={() => router.push("/contact")} 

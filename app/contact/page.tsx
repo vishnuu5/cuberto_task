@@ -15,7 +15,7 @@ export default function Contact() {
 
   const validateForm = () => {
     let valid = true;
-    let newErrors = { name: "", email: "", message: "" };
+    const newErrors = { name: "", email: "", message: "" };
 
     if (!formData.name.trim()) {
       newErrors.name = "Name is required";

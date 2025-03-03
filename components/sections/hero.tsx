@@ -16,7 +16,7 @@ export default function Hero() {
     }, 2000);
 
     return () => clearInterval(interval);
-  }, []);
+  }, [heroTexts.length]);
 
   // Text animation variants
   const textVariants = {
