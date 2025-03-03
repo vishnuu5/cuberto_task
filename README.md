@@ -4,7 +4,7 @@ This project is a recreation of selected sections from the Cuberto.com homepage,
 
 ## Live Demo
 
-[View Live Demo](https://your-deployment-url-here.vercel.app)
+[View Live Demo](https://cuberto-task.vercel.app/)
 
 ## Sections Implemented
 
@@ -49,5 +49,6 @@ Creating a natural, staggered appearance of elements when they come into view.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/cuberto-clone.git
-cd cuberto-clone
+git https://github.com/vishnuu5/cuberto_task
+cd project name
+```
